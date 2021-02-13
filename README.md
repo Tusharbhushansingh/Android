@@ -3,9 +3,9 @@
 Code for Flappy bird game using GDXlib in android.
 
 **Game Demo :-
+![image](https://user-images.githubusercontent.com/42302678/107854271-dd9dca00-6e40-11eb-8e9f-20b577dfd1dc.png)
 
-![image](https://user-images.githubusercontent.com/42302678/107854204-5d776480-6e40-11eb-98f2-e1a73de06050.png)
-![image](https://user-images.githubusercontent.com/42302678/107854227-9b748880-6e40-11eb-82c6-a62c71f2065e.png)
+
 
 
 
